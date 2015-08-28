@@ -1,0 +1,14 @@
+{
+  "name": "rti-nodejs",
+  "version": "1.0.0",
+  "description": "Amdatu RTI Probe API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "dependencies": {
+    "kafka-node": "^0.2.27",
+    "lodash": "^3.10.1"
+  }
+}
