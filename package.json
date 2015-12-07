@@ -1,7 +1,7 @@
 {
-  "name": "rti-nodejs",
+  "name": "cloud-rti-nodejs",
   "version": "1.0.0",
-  "description": "Amdatu RTI Probe API",
+  "description": "Cloud RTI Probe API",
   "main": "index.js",
   "scripts": {
     "test": "test"
